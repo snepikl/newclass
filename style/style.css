@@ -1,0 +1,82 @@
+body{
+	background: #DBF8f4;
+	color: #0099A2 ;
+	font-size: 16px;
+	font-weight: 100;
+	font-family:Helvetica, sans-serif ;
+	
+	}
+
+	a{
+		color: #0382AC;
+		text-decoration: none;
+
+	}
+
+	a:hover{
+		text-decoration: underline;
+	}
+
+	a:active{
+		color: #324F4C;
+	}
+	a:visited{
+		#324F4C
+	}
+
+	.avatar{
+
+		border-radius: 28px;
+	}
+	.imgofallclass{
+
+		width: 100%;
+		height: ;
+		border-radius: 26px;
+	}
+	.imgofpupils{
+		width: 40%;
+		height: 25%;
+		border-radius: 25px;
+		
+
+}
+
+.hobby{
+	padding: 15px 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	background: #003E4C ;
+}
+
+.sport{
+	padding: 15px 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	background: #003E4C ;
+}
+
+.info{
+	padding: 15px 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	background: #003E4C ;
+}
+
+.container{
+
+	max-width:950px ;
+	margin: auto;
+
+}
+
+.morea{
+	padding: 15px 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	background: #003E4C ;
+}
+
+.vmph{
+	margin: auto;i
+}
